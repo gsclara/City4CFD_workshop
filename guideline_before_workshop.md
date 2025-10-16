@@ -5,7 +5,7 @@ There are a few steps to complete before the workshop takes place:
 	
 2 - Compile City4CFD following the guidelines required depending on your system here: https://github.com/tudelft3d/City4CFD
 
-3 - If you encounter problems compiling before the workshop, please report through an issue where you specify the problems in this git repo: https://github.com/gsclara/City4CFD_workshop, you can do that until Thursday 24th at 24:00
+3 - If you encounter problems compiling before the workshop, please report through an issue where you specify the problems in this git repo: https://github.com/tudelft3d/City4CFD_workshop/issues, you can do that until Thursday 24th at 24:00
 
 4 - We will try to answer all questions, so you can give an additional try to compilation, if things still go south and compilation is unsuccesfull, please join the compilation session on 27th of October at 14:00-15:00
 
