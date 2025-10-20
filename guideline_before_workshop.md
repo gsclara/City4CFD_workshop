@@ -1,7 +1,6 @@
 There are a few steps to complete before the workshop takes place: 
 
-1 - Download all the required data for the reconstruction here: 
-	password is <flufflyCAT2025>
+1 - Download all the required data for the reconstruction here: https://surfdrive.surf.nl/index.php/s/NDAdnK9HYhHGaAj, the password is provided in the invitation email. 
 	
 2 - Compile City4CFD following the guidelines required depending on your system here: https://github.com/tudelft3d/City4CFD
 
